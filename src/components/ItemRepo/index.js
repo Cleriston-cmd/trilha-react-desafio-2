@@ -20,5 +20,3 @@ function ItemRepo({repo, handleRemoveRepo}) {
 }
 
 export default ItemRepo;
-
-//<a href="#"  rel="noreferrer" className="remover">Remover</a>
